@@ -10,7 +10,7 @@ Currently pursuing **MSc Data Science @ Christ University, Bangalore** + **BS Da
  
 ## 🚀 What I've Built
  
-### 🧠 RAG-based Mental Health AI Chatbot — [Kindled](https://kindled.in)
+### 🧠 RAG-based Mental Health AI Chatbot — Kindled
 > LangChain · Hugging Face · FAISS · Python
  
 - Built end-to-end RAG pipeline ingesting mental health PDFs
@@ -26,6 +26,16 @@ Currently pursuing **MSc Data Science @ Christ University, Bangalore** + **BS Da
 - **Module 2:** LLM-powered mock interview simulator with audio delivery & automated evaluation
 - **Module 3:** Real-time Computer Vision for eye contact, posture detection & behaviour scoring
 - Team project @ Christ University
+ 
+---
+ 
+### ⚡ Multivariate Time-Series Energy Consumption Forecasting
+> Python · Scikit-learn · Statsmodels · Ridge · Random Forest · Gradient Boosting
+ 
+- Forecasted hourly campus energy consumption using 8,760 observations across 20 features
+- Best model: **Ridge Regression — R² = 0.8094, RMSE = 10.19 kWh** (vs naive baseline R² = 0.38)
+- Full EDA pipeline — ADF stationarity test, VIF analysis, STL decomposition, ACF/PACF
+- Tuned all models using GridSearchCV + TimeSeriesSplit CV to preserve temporal integrity
  
 ---
  
@@ -55,4 +65,3 @@ Currently pursuing **MSc Data Science @ Christ University, Bangalore** + **BS Da
  
 📧 [ashmalsalam@gmail.com](mailto:ashmalsalam@gmail.com)
 🔗 [linkedin.com/in/ashmal-abdussalam-p-t-7b5109202](https://linkedin.com/in/ashmal-abdussalam-p-t-7b5109202)
- 
