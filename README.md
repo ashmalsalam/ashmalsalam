@@ -26,6 +26,16 @@ Currently pursuing **MSc Data Science @ Christ University, Bangalore** + **BS Da
 - **Module 2:** LLM-powered mock interview simulator with audio delivery & automated evaluation
 - **Module 3:** Real-time Computer Vision for eye contact, posture detection & behaviour scoring
 - Team project @ Christ University
+
+---
+
+### 🏦 AI-Based Borrower Segmentation & Default Prediction
+> Python · Scikit-learn · XGBoost · KMeans · Pandas
+ 
+- Segmented 30,000 real credit card borrowers into Low/Medium/High Risk clusters using KMeans (elbow + silhouette scoring)
+- Built 3-model default prediction pipeline (Logistic Regression, Random Forest, XGBoost) with StratifiedKFold CV and class imbalance handling
+- Engineered 7 financial features — utilization rate, repayment ratio, payment consistency score, max delay, debt-to-payment proxy
+- Mapped each segment to a personalized AI recovery strategy — directly applicable to AI-first debt collection platforms
  
 ---
  
