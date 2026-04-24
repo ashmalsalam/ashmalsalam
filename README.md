@@ -10,6 +10,16 @@ Currently pursuing **MSc Data Science @ Christ University, Bangalore** + **BS Da
  
 ## 🚀 What I've Built
  
+### 📈 Event-Driven Algorithmic Trading Backtester
+> [Repository](https://github.com/ashmalsalam/backtester) · Python · Streamlit · Plotly · Pandas
+ 
+- Engineered a modular, event-driven trading backtesting engine matching real-world order execution workflows
+- Built a centralized event queue to process Market, Signal, Order, and Fill events for latency-accurate simulation
+- Developed an interactive Streamlit dashboard with dynamic Plotly charts for real-time strategy tracking and visualizing equity curves
+- Implemented a Moving Average Crossover strategy to successfully validate end-to-end signal generation and portfolio metric computation
+ 
+---
+
 ### 🧠 RAG-based Mental Health AI Chatbot — Kindled
 > LangChain · Hugging Face · FAISS · Python
  
