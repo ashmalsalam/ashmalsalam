@@ -76,7 +76,7 @@ Currently pursuing **MSc Data Science @ Christ University, Bangalore** + **BS Da
 ---
  
 ## 📊 Currently Looking For
-🔍 **Summer 2026 Internships** — ML/AI Engineering · NLP & GenAI · Product Analytics
+🔍 **Internships** — ML/AI Engineering · NLP & GenAI · Product Analytics
 📍 Bangalore or Remote
  
 ---
